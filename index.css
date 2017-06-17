@@ -1,7 +1,8 @@
 
 html{
     font-family: sans-serif;
-    
+    background-color:#b1b6cc;
+    color:white;
 }
 
 body{
@@ -25,10 +26,12 @@ body{
     width:50px;
 }
 
-tableEnrix {
+table {
     font-family: sans-serif;
     border-collapse: collapse;
+    border-width:5px;
     width: 100%;
+    
 }
 
 td, th {
@@ -37,4 +40,5 @@ td, th {
     padding: 3px;
      font-size: 25px;
 }
+
 
